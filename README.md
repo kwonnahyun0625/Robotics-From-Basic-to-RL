@@ -19,8 +19,16 @@
 
 ** 7강까지는 필수로 수강하고, 8~9강은 자율적으로 수강
 
-## 2. [24.08.12 ~ 24.08.16]
+## 3. [24.08.12 ~ 24.08.16]
 ### To Do 
 - cs231n 강의 수강하면서 딥러닝 기초 공부 (1~13강)
  https://github.com/visionNoob/CS231N_17_KOR_SUB?tab=readme-ov-file
 - 강희오빠한테 딥러닝 기반 착지 감지 인수인계 받기
+
+## 4. [24.08.19 ~ 24.08.23]
+### To Do 
+- 강화학습 강의 수강하면서 강화학습 기초 공부 (1~10강) <br/>
+ https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU
+- isaac gym 기초 강의 수강하면서 익히기 <br/>
+https://www.youtube.com/watch?v=rMlwqXs3h84&list=PL77aT3OTHDbV_1rSKGjcVTMSpdMPC44yp&index=1  <br/>
+--> 이거 강의만 보는게 아니라 직접 예제 따라해봐. 직접 예제 해보는거 증빙자료(화면캡쳐같은거로 ㄱㄱ) PPT에 첨부해놓고 
