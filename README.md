@@ -32,3 +32,7 @@
 - isaac gym 기초 강의 수강하면서 익히기 <br/>
 https://www.youtube.com/watch?v=rMlwqXs3h84&list=PL77aT3OTHDbV_1rSKGjcVTMSpdMPC44yp&index=1  <br/>
 --> 이거 강의만 보는게 아니라 직접 예제 따라해봐. 직접 예제 해보는거 증빙자료(화면캡쳐같은거로 ㄱㄱ) PPT에 첨부해놓고 
+
+## 5. [24.08.26 ~ 24.08.30]
+### To Do 
+- 착지감지 인수인계 겸 딥러닝 공부
