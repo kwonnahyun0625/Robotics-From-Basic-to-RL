@@ -36,3 +36,9 @@ https://www.youtube.com/watch?v=rMlwqXs3h84&list=PL77aT3OTHDbV_1rSKGjcVTMSpdMPC4
 ## 5. [24.08.26 ~ 24.08.30]
 ### To Do 
 - 착지감지 인수인계 겸 딥러닝 공부
+
+## 6. [24.09.09 ~ 24.09.13]
+### To Do 
+- Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning #논문 정리, 논문 그대로 캡쳐해서 붙여넣는게 아니라 진짜 논문을 읽고 그에 대한 중요 내용들로 구성해서 피피티 만들것
+- https://github.com/leggedrobotics/legged_gym #legged gym 코드 분석(수요일까지 분석 하고 줌켜서 직접 나한테 설명해주면 됨, 어떻게 코드가 구성됐는지, 어떤 구조로 돌아가는지 등등)
+- 수요일에 분석 다했으면 go1모델 줄테니까 legged gym기반으로 강화학습으로 go1보행할 수 있게 학습
