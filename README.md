@@ -27,3 +27,8 @@
 - cs231n 강의 수강하면서 딥러닝 기초 공부 (3~13강)
 - 강화학습 강의 수강하면서 강화학습 기초 공부 (1~10강) <br/>
  https://www.youtube.com/watch?v=wYgyiCEkwC8&list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU
+
+## 4. [25.03.17 ~ 25.03.21]
+- isaac gym 기초 강의 수강하면서 익히기
+https://www.youtube.com/watch?v=rMlwqXs3h84&list=PL77aT3OTHDbV_1rSKGjcVTMSpdMPC44yp&index=1
+--> 이거 강의만 보는게 아니라 직접 예제 따라해봐. 직접 예제 해보는거 증빙자료(화면캡쳐같은거로 ㄱㄱ) PPT에 첨부해놓고
